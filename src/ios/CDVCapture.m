@@ -152,7 +152,9 @@
         /*if ([pickerController respondsToSelector:@selector(cameraCaptureMode)]){
             // iOS 4.0
             pickerController.cameraCaptureMode = UIImagePickerControllerCameraCaptureModePhoto;
-            pickerController.cameraDevice = UIImagePickerControllerCameraDeviceRear;
+            pickerController.videoQuality = UIImagePickerControllerQualityTypeHigh;
+            //pickerController.cameraDevice = UIImagePickerControllerCameraDeviceRear;
+            pickerController.cameraDevice = UIImagePickerControllerCameraDeviceFront;
             pickerController.cameraFlashMode = UIImagePickerControllerCameraFlashModeAuto;
         }*/
         // CDVImagePicker specific property
