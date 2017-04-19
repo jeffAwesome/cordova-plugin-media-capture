@@ -147,6 +147,8 @@ interface ImageOptions {
 
 /** Encapsulates video capture configuration options. */
 interface VideoOptions {
+
+    quality?: boolean;
     /**
      * The maximum number of video clips the device's user can capture in a single
      * capture operation. The value must be greater than or equal to 1.
@@ -155,7 +157,6 @@ interface VideoOptions {
     /** The maximum duration of a video clip, in seconds. */
     duration?: number;
 
-    quality?: boolean;
 }
 
 /** Encapsulates a set of media capture parameters that a device supports. */
