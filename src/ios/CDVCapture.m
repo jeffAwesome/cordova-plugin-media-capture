@@ -257,7 +257,7 @@
 
         if ([mediaType isEqualToString:(NSString*)kUTTypeMovie]){
             if (duration) {
-                pickerController.videoMaximumDuration = [duration doubleValue];
+          //      pickerController.videoMaximumDuration = [duration doubleValue];
             }
             //NSLog(@"pickerController.videoMaximumDuration = %f", pickerController.videoMaximumDuration);
         }

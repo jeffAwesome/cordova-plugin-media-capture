@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d95d9d2-f386-4d71-8ea8-83693a4f6fe8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types/index.d.ts" afterPath="$PROJECT_DIR$/types/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ios/CDVCapture.m" afterPath="$PROJECT_DIR$/src/ios/CDVCapture.m" />
     </list>
     <ignored path="cordova-plugin-media-capture.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CDVCapture.m" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CDVCapture.m" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ios/CDVCapture.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2407408">
-              <caret line="147" column="22" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.3089431">
+              <caret line="257" column="65" selection-start-line="257" selection-start-column="65" selection-end-line="257" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.d.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/types/index.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48598132">
+            <state vertical-scroll-proportion="-11.555555">
               <caret line="150" column="22" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -53,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ios/CDVCapture.m" />
         <option value="$PROJECT_DIR$/types/index.d.ts" />
+        <option value="$PROJECT_DIR$/src/ios/CDVCapture.m" />
       </list>
     </option>
   </component>
@@ -210,21 +210,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ios/CDVCapture.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2407408">
-          <caret line="147" column="22" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48598132">
+        <state vertical-scroll-proportion="-11.555555">
           <caret line="150" column="22" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ios/CDVCapture.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3089431">
+          <caret line="257" column="65" selection-start-line="257" selection-start-column="65" selection-end-line="257" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
